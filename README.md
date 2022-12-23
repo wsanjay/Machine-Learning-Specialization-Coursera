@@ -58,7 +58,7 @@ YouTube Video Course Link : [Machine Learning Specialization](https://www.youtub
 <br/>
 
 ## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-
+YouTube link 42 on words : [Advanced Learning Algorithms](https://www.youtube.com/watch?v=MFp4uQMQ1rk&list=PLxfEOJXRm7eZKJyovNH-lE3ooXTsOCvfC&index=42)
 - [Week 1](/C2%20-%20Advanced%20Learning%20Algorithms/week1)
     - [Practice quiz: Neural networks intuition](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20networks%20intuition)
     - [Practice quiz: Neural network model](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20network%20model)
@@ -111,7 +111,7 @@ YouTube Video Course Link : [Machine Learning Specialization](https://www.youtub
 <br/>
 
 ## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
-
+Youtube Link video 101 onwards :[Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.youtube.com/watch?v=MFp4uQMQ1rk&list=PLxfEOJXRm7eZKJyovNH-lE3ooXTsOCvfC&index=101)
 <br/>
 
 - [Week 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/20e9e2fafcabd86aeeabdda2f79316caba6a5213/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week1)
