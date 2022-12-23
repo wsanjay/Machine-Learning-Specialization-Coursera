@@ -5,7 +5,7 @@
 
 Contains Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) by Andrew NG on Coursera 
 
-
+YouTube Video Course Link : [Machine Learning Specialization](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=2)
 ## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
 - [Week 1](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/)
